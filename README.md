@@ -61,6 +61,7 @@ Here are the steps taken to complete this project:
 Attrition Rate = SUM( 'HR data'[Attrition Count]) / SUM('HR data'[Employee Count])
 ```
 ### **Data Visualiztion**
+
 ![HR Data Report_page-0001](https://github.com/user-attachments/assets/fa06a7cb-6c85-48c5-915a-da54f7cfa751)
 ![HR Data Report_page-0002](https://github.com/user-attachments/assets/dcebe26f-a69c-4ddb-8a03-3065bfe0a317)
 
