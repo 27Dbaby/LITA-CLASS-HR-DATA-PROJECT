@@ -60,12 +60,11 @@ Here are the steps taken to complete this project:
 ```POWERBI
 Attrition Rate = SUM( 'HR data'[Attrition Count]) / SUM('HR data'[Employee Count])
 ```
-
+### **Data Visualiztion**
 ![HR Data Report_page-0001](https://github.com/user-attachments/assets/fa06a7cb-6c85-48c5-915a-da54f7cfa751)
-![HR Data Report_page-0002](https://github.com/user-attachments/assets/3477f9d8-29bc-432a-9b6c-59f108d2647b)
+![HR Data Report_page-0002](https://github.com/user-attachments/assets/dcebe26f-a69c-4ddb-8a03-3065bfe0a317)
 
 HR Data Analysis
-
 **Total number of employees: 1,470**
 
 * Total number of attritions: 237
