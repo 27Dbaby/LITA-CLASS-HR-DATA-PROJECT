@@ -59,11 +59,14 @@ Here are the steps taken to complete this project:
 
 * Select "Column Quality," "Distribution," and "Profile" to verify there are no blank columns. Then, close and apply the changes.
 
-```POWERBI
+### Data Analysis
+
+Here, we include basic lines of the DAX expressions used during the analysis.
+```DAX FUNCTION
 Attrition Rate = SUM( 'HR data'[Attrition Count]) / SUM('HR data'[Employee Count])
 ```
-### **Data Visualiztion**
 
+### **Data Visualiztion**
 ![HR Data Report_page-0001](https://github.com/user-attachments/assets/fa06a7cb-6c85-48c5-915a-da54f7cfa751)
 ![HR Data Report_page-0002](https://github.com/user-attachments/assets/dcebe26f-a69c-4ddb-8a03-3065bfe0a317)
 
