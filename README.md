@@ -46,13 +46,16 @@ EDA involved examining the data to answer various questions such as:
 * Which gender experiences the highest attrition rate?
 
 Here are the steps taken to complete this project:
-1. **Cleaning of the Sales Data:**
 
-* Open the Excel Worksheet.
+**Cleaning the HR Data:**
 
-* Highlight the data.
+*Open Power BI.
 
-* Click on the Data Tab.
+*Click on "Get Data".
+
+*Transform the data.
+
+*Click on "View".
 
 * Select "Column Quality," "Distribution," and "Profile" to verify there are no blank columns. Then, close and apply the changes.
 
